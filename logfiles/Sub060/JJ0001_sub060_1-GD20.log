@@ -1,0 +1,20 @@
+Scenario - GD20
+Logfile written - 08/15/2014 14:42:26
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+JJ0001_sub060_1	1	Picture	83	156	0	1	15173	2	0	15000
+JJ0001_sub060_1	1	Picture	82	20331	20175	1	15172	3	20000	15000
+JJ0001_sub060_1	1	Picture	81	40339	40183	1	15172	3	40000	15000
+JJ0001_sub060_1	2	Sound	click20	55513	0	2			0
+JJ0001_sub060_1	3	Sound	click20	68014	0	2			0
+JJ0001_sub060_1	3	Quit		71057	3043	
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	83	other				156	1	15173	2	0	15000
+Picture	82	other				20331	1	15172	3	20000	15000
+Picture	81	other				40339	1	15172	3	40000	15000
+Sound	click20	miss				55513	2			0
+Sound	click20	miss				68014	2			0

@@ -1,0 +1,72 @@
+Scenario - GD20
+Logfile written - 01/23/2013 15:11:49
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+JJ0001_Sub050_1	1	Picture	83	156	0	1	15173	2	0	15000
+JJ0001_Sub050_1	1	Picture	82	20331	20175	1	15172	3	20000	15000
+JJ0001_Sub050_1	1	Picture	81	40339	40183	1	15172	2	40000	15000
+JJ0001_Sub050_1	2	Sound	click20	55512	0	3			0
+JJ0001_Sub050_1	3	Sound	click20	68012	0	3			0
+JJ0001_Sub050_1	4	Sound	click20	80513	0	2			0
+JJ0001_Sub050_1	5	Sound	500ms1kHz	93014	0	2			0
+JJ0001_Sub050_1	6	Sound	click20	105514	0	3			0
+JJ0001_Sub050_1	7	Sound	click20	118015	0	2			0
+JJ0001_Sub050_1	8	Sound	click20	130516	0	2			0
+JJ0001_Sub050_1	9	Sound	click20	143016	0	3			0
+JJ0001_Sub050_1	10	Sound	click20	155517	0	2			0
+JJ0001_Sub050_1	11	Sound	click20	168018	0	2			0
+JJ0001_Sub050_1	12	Sound	1rpiano	180519	0	2			0
+JJ0001_Sub050_1	13	Sound	click20	193019	0	3			0
+JJ0001_Sub050_1	14	Sound	click20	205520	0	2			0
+JJ0001_Sub050_1	15	Sound	click20	218021	0	2			0
+JJ0001_Sub050_1	16	Sound	click20	230521	0	3			0
+JJ0001_Sub050_1	17	Sound	click20	243022	0	2			0
+JJ0001_Sub050_1	18	Sound	click20	255523	0	2			0
+JJ0001_Sub050_1	19	Sound	500ms1kHz	268024	0	2			0
+JJ0001_Sub050_1	20	Sound	click20	280524	0	3			0
+JJ0001_Sub050_1	21	Sound	click20	293025	0	2			0
+JJ0001_Sub050_1	22	Sound	click20	305526	0	2			0
+JJ0001_Sub050_1	23	Sound	click20	318026	0	2			0
+JJ0001_Sub050_1	24	Sound	click20	330526	0	3			0
+JJ0001_Sub050_1	25	Sound	500ms1kHz	343027	0	2			0
+JJ0001_Sub050_1	26	Sound	click20	355527	0	3			0
+JJ0001_Sub050_1	27	Sound	click20	368027	0	3			0
+JJ0001_Sub050_1	28	Sound	1rpig	380527	0	3			0
+JJ0001_Sub050_1	29	Sound	click20	393027	0	3			0
+JJ0001_Sub050_1	29	Quit		404085	11058	
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	83	other				156	1	15173	2	0	15000
+Picture	82	other				20331	1	15172	3	20000	15000
+Picture	81	other				40339	1	15172	2	40000	15000
+Sound	click20	miss				55512	3			0
+Sound	click20	miss				68012	3			0
+Sound	click20	miss				80513	2			0
+Sound	500ms1kHz	miss				93014	2			0
+Sound	click20	miss				105514	3			0
+Sound	click20	miss				118015	2			0
+Sound	click20	miss				130516	2			0
+Sound	click20	miss				143016	3			0
+Sound	click20	miss				155517	2			0
+Sound	click20	miss				168018	2			0
+Sound	1rpiano	miss				180519	2			0
+Sound	click20	miss				193019	3			0
+Sound	click20	miss				205520	2			0
+Sound	click20	miss				218021	2			0
+Sound	click20	miss				230521	3			0
+Sound	click20	miss				243022	2			0
+Sound	click20	miss				255523	2			0
+Sound	500ms1kHz	miss				268024	2			0
+Sound	click20	miss				280524	3			0
+Sound	click20	miss				293025	2			0
+Sound	click20	miss				305526	2			0
+Sound	click20	miss				318026	2			0
+Sound	click20	miss				330526	3			0
+Sound	500ms1kHz	miss				343027	2			0
+Sound	click20	miss				355527	3			0
+Sound	click20	miss				368027	3			0
+Sound	1rpig	miss				380527	3			0
+Sound	click20	miss				393027	3			0
