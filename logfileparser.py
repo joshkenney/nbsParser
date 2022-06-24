@@ -22,25 +22,7 @@ def extractFeatures():
         if os.path.isfile("logfiles copy/Sub0"+digits+file_index+"/Intake/JJ0001_"+sub+"0"+digits+file_index+"_1-sternberg_block 1.log"):
             intake = "/Intake"
             print("yes")
-
-        src1 = "logfiles copy/Sub0"+digits+file_index+intake+"/JJ0001_"+sub+"0"+digits+file_index+"_1-sternberg_block 1.log"
-        src2 = "logfiles copy/Sub0"+digits+file_index+intake+"/JJ0001_"+sub+"0"+digits+file_index+"_1-sternberg_block 2.log"
-        src3 = "logfiles copy/Sub0"+digits+file_index+intake+"/JJ0001_"+sub+"0"+digits+file_index+"_1-sternberg_block 3.log"
-
-        dest1 = "new_logfiles/Sub"+file_index+"/sternberg_block_1.log"
-        dest2 = "new_logfiles/Sub"+file_index+"/sternberg_block_2.log"
-        dest3 = "new_logfiles/Sub"+file_index+"/sternberg_block_3.log"
-
-        os.mkdir("new_logfiles/Sub"+file_index)
-
-        shutil.move(src1, dest1)
-        shutil.move(src2, dest2)
-        shutil.move(src3, dest3)
-
-
-
-
-        """
+   
         ResponseMarker = False
         position = 0
         response = ""
@@ -96,6 +78,6 @@ def extractFeatures():
 
     print(features)
     features.to_csv("output/features.csv")
-    """
+
 
 
