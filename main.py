@@ -4,7 +4,7 @@ from summarize import *
 
 def main():
     #extractFeatures()
-    summarize()
+    summarize3()
 
 if __name__ ==  "__main__":
     main()

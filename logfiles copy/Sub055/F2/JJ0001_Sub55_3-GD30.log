@@ -1,0 +1,391 @@
+Scenario - GD30
+Logfile written - 05/08/2013 11:29:05
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+JJ0001_Sub55_3	1	Picture	83	156	0	1	15173	2	0	15000
+JJ0001_Sub55_3	1	Picture	82	20331	20175	1	15172	3	20000	15000
+JJ0001_Sub55_3	1	Picture	81	40339	40183	1	15172	3	40000	15000
+JJ0001_Sub55_3	2	Sound	click30	55513	0	2			0
+JJ0001_Sub55_3	3	Sound	click30	68014	0	2			0
+JJ0001_Sub55_3	4	Sound	click30	80515	0	2			0
+JJ0001_Sub55_3	5	Sound	click30	93016	0	2			0
+JJ0001_Sub55_3	6	Sound	click30	105517	0	2			0
+JJ0001_Sub55_3	6	Response	33	111633	6116	1
+JJ0001_Sub55_3	7	Sound	500ms1kHz	118018	0	2			0
+JJ0001_Sub55_3	7	Response	8	122884	4866	2
+JJ0001_Sub55_3	8	Sound	click30	130519	0	2			0
+JJ0001_Sub55_3	9	Sound	click30	143020	0	2			0
+JJ0001_Sub55_3	10	Sound	click30	155521	0	2			0
+JJ0001_Sub55_3	11	Sound	click30	168022	0	2			0
+JJ0001_Sub55_3	12	Sound	2rlaugh2	180523	0	2			0
+JJ0001_Sub55_3	13	Sound	click30	193024	0	2			0
+JJ0001_Sub55_3	14	Sound	click30	205525	0	2			0
+JJ0001_Sub55_3	15	Sound	500ms1kHz	218026	0	2			0
+JJ0001_Sub55_3	15	Response	8	225584	7558	1
+JJ0001_Sub55_3	16	Sound	click30	230527	0	2			0
+JJ0001_Sub55_3	17	Sound	click30	243028	0	2			0
+JJ0001_Sub55_3	18	Sound	click30	255529	0	2			0
+JJ0001_Sub55_3	19	Sound	click30	268030	0	2			0
+JJ0001_Sub55_3	20	Sound	click30	280531	0	2			0
+JJ0001_Sub55_3	21	Sound	2rutiller	293032	0	2			0
+JJ0001_Sub55_3	22	Sound	click30	305533	0	2			0
+JJ0001_Sub55_3	23	Sound	click30	318034	0	2			0
+JJ0001_Sub55_3	24	Sound	click30	330535	0	2			0
+JJ0001_Sub55_3	25	Sound	click30	343036	0	2			0
+JJ0001_Sub55_3	26	Sound	click30	355537	0	2			0
+JJ0001_Sub55_3	27	Sound	2rcrow	368037	0	3			0
+JJ0001_Sub55_3	28	Sound	click30	380537	0	3			0
+JJ0001_Sub55_3	29	Sound	click30	393038	0	2			0
+JJ0001_Sub55_3	30	Sound	click30	405539	0	2			0
+JJ0001_Sub55_3	31	Sound	click30	418040	0	2			0
+JJ0001_Sub55_3	32	Sound	click30	430540	0	3			0
+JJ0001_Sub55_3	33	Sound	click30	443041	0	2			0
+JJ0001_Sub55_3	34	Sound	click30	455542	0	2			0
+JJ0001_Sub55_3	35	Sound	500ms1kHz	468042	0	3			0
+JJ0001_Sub55_3	35	Response	8	473864	5822	2
+JJ0001_Sub55_3	36	Sound	click30	480542	0	3			0
+JJ0001_Sub55_3	37	Sound	click30	493043	0	2			0
+JJ0001_Sub55_3	38	Sound	click30	505544	0	2			0
+JJ0001_Sub55_3	39	Sound	click30	518044	0	3			0
+JJ0001_Sub55_3	40	Sound	click30	530545	0	2			0
+JJ0001_Sub55_3	41	Sound	click30	543046	0	2			0
+JJ0001_Sub55_3	42	Sound	500ms1kHz	555547	0	2			0
+JJ0001_Sub55_3	42	Response	8	561374	5827	2
+JJ0001_Sub55_3	43	Sound	click30	568047	0	3			0
+JJ0001_Sub55_3	44	Sound	click30	580548	0	2			0
+JJ0001_Sub55_3	45	Sound	click30	593049	0	2			0
+JJ0001_Sub55_3	46	Sound	2rupop	605550	0	2			0
+JJ0001_Sub55_3	47	Sound	click30	618051	0	2			0
+JJ0001_Sub55_3	48	Sound	click30	630552	0	2			0
+JJ0001_Sub55_3	49	Sound	click30	643053	0	2			0
+JJ0001_Sub55_3	50	Sound	click30	655554	0	2			0
+JJ0001_Sub55_3	51	Sound	click30	668055	0	2			0
+JJ0001_Sub55_3	52	Sound	click30	680556	0	2			0
+JJ0001_Sub55_3	53	Sound	click30	693057	0	2			0
+JJ0001_Sub55_3	54	Sound	500ms1kHz	705558	0	2			0
+JJ0001_Sub55_3	54	Response	8	712544	6986	2
+JJ0001_Sub55_3	55	Sound	click30	718058	0	3			0
+JJ0001_Sub55_3	56	Sound	click30	730558	0	3			0
+JJ0001_Sub55_3	57	Sound	click30	743059	0	2			0
+JJ0001_Sub55_3	58	Sound	click30	755560	0	2			0
+JJ0001_Sub55_3	59	Sound	500ms1kHz	768061	0	2			0
+JJ0001_Sub55_3	59	Response	8	772534	4473	2
+JJ0001_Sub55_3	60	Sound	click30	780561	0	2			0
+JJ0001_Sub55_3	61	Sound	click30	793062	0	2			0
+JJ0001_Sub55_3	62	Sound	click30	805563	0	2			0
+JJ0001_Sub55_3	63	Sound	click30	818063	0	3			0
+JJ0001_Sub55_3	64	Sound	click30	830564	0	2			0
+JJ0001_Sub55_3	65	Sound	2rutone	843065	0	2			0
+JJ0001_Sub55_3	66	Sound	click30	855566	0	2			0
+JJ0001_Sub55_3	67	Sound	click30	868067	0	2			0
+JJ0001_Sub55_3	68	Sound	click30	880568	0	2			0
+JJ0001_Sub55_3	69	Sound	click30	893069	0	2			0
+JJ0001_Sub55_3	70	Sound	click30	905570	0	2			0
+JJ0001_Sub55_3	71	Sound	click30	918071	0	2			0
+JJ0001_Sub55_3	72	Sound	2rbird2	930572	0	2			0
+JJ0001_Sub55_3	73	Sound	click30	943073	0	2			0
+JJ0001_Sub55_3	74	Sound	click30	955573	0	3			0
+JJ0001_Sub55_3	75	Sound	click30	968074	0	2			0
+JJ0001_Sub55_3	76	Sound	click30	980574	0	3			0
+JJ0001_Sub55_3	77	Sound	click30	993075	0	2			0
+JJ0001_Sub55_3	78	Sound	click30	1005575	0	3			0
+JJ0001_Sub55_3	79	Sound	500ms1kHz	1018075	0	3			0
+JJ0001_Sub55_3	79	Response	8	1023214	5139	2
+JJ0001_Sub55_3	80	Sound	click30	1030576	0	2			0
+JJ0001_Sub55_3	81	Sound	click30	1043077	0	2			0
+JJ0001_Sub55_3	82	Sound	click30	1055578	0	2			0
+JJ0001_Sub55_3	83	Sound	click30	1068079	0	2			0
+JJ0001_Sub55_3	84	Sound	click30	1080580	0	2			0
+JJ0001_Sub55_3	85	Sound	500ms1kHz	1093081	0	2			0
+JJ0001_Sub55_3	85	Response	8	1100314	7233	2
+JJ0001_Sub55_3	86	Sound	click30	1105582	0	2			0
+JJ0001_Sub55_3	87	Sound	click30	1118083	0	2			0
+JJ0001_Sub55_3	88	Sound	click30	1130583	0	3			0
+JJ0001_Sub55_3	89	Sound	click30	1143084	0	2			0
+JJ0001_Sub55_3	90	Sound	click30	1155585	0	2			0
+JJ0001_Sub55_3	91	Sound	click30	1168086	0	2			0
+JJ0001_Sub55_3	92	Sound	500ms1kHz	1180586	0	3			0
+JJ0001_Sub55_3	92	Response	8	1184944	4358	2
+JJ0001_Sub55_3	93	Sound	click30	1193087	0	2			0
+JJ0001_Sub55_3	94	Sound	click30	1205588	0	2			0
+JJ0001_Sub55_3	95	Sound	click30	1218088	0	3			0
+JJ0001_Sub55_3	96	Sound	click30	1230589	0	2			0
+JJ0001_Sub55_3	97	Sound	500ms1kHz	1243090	0	2			0
+JJ0001_Sub55_3	97	Response	8	1248294	5204	2
+JJ0001_Sub55_3	98	Sound	click30	1255590	0	3			0
+JJ0001_Sub55_3	99	Sound	click30	1268090	0	3			0
+JJ0001_Sub55_3	100	Sound	click30	1280591	0	2			0
+JJ0001_Sub55_3	101	Sound	click30	1293092	0	2			0
+JJ0001_Sub55_3	102	Sound	click30	1305593	0	2			0
+JJ0001_Sub55_3	103	Sound	click30	1318093	0	3			0
+JJ0001_Sub55_3	104	Sound	2ruhover	1330593	0	3			0
+JJ0001_Sub55_3	105	Sound	click30	1343094	0	2			0
+JJ0001_Sub55_3	106	Sound	click30	1355595	0	2			0
+JJ0001_Sub55_3	107	Sound	click30	1368095	0	3			0
+JJ0001_Sub55_3	108	Sound	click30	1380596	0	2			0
+JJ0001_Sub55_3	109	Sound	click30	1393097	0	2			0
+JJ0001_Sub55_3	110	Sound	2ruray3	1405598	0	2			0
+JJ0001_Sub55_3	111	Sound	click30	1418098	0	3			0
+JJ0001_Sub55_3	112	Sound	click30	1430598	0	3			0
+JJ0001_Sub55_3	113	Sound	click30	1443099	0	2			0
+JJ0001_Sub55_3	114	Sound	click30	1455600	0	2			0
+JJ0001_Sub55_3	115	Sound	click30	1468101	0	2			0
+JJ0001_Sub55_3	116	Sound	500ms1kHz	1480602	0	2			0
+JJ0001_Sub55_3	116	Response	8	1484574	3972	2
+JJ0001_Sub55_3	117	Sound	click30	1493103	0	2			0
+JJ0001_Sub55_3	118	Sound	click30	1505604	0	2			0
+JJ0001_Sub55_3	119	Sound	click30	1518105	0	2			0
+JJ0001_Sub55_3	120	Sound	click30	1530606	0	2			0
+JJ0001_Sub55_3	121	Sound	2rchicken	1543107	0	2			0
+JJ0001_Sub55_3	122	Sound	click30	1555608	0	2			0
+JJ0001_Sub55_3	123	Sound	click30	1568109	0	2			0
+JJ0001_Sub55_3	124	Sound	click30	1580610	0	2			0
+JJ0001_Sub55_3	125	Sound	click30	1593111	0	2			0
+JJ0001_Sub55_3	126	Sound	click30	1605612	0	2			0
+JJ0001_Sub55_3	127	Sound	2ruspace	1618112	0	3			0
+JJ0001_Sub55_3	128	Sound	click30	1630613	0	2			0
+JJ0001_Sub55_3	129	Sound	click30	1643114	0	2			0
+JJ0001_Sub55_3	130	Sound	click30	1655615	0	2			0
+JJ0001_Sub55_3	131	Sound	click30	1668115	0	3			0
+JJ0001_Sub55_3	132	Sound	click30	1680616	0	2			0
+JJ0001_Sub55_3	133	Sound	500ms1kHz	1693116	0	3			0
+JJ0001_Sub55_3	133	Response	8	1698134	5018	2
+JJ0001_Sub55_3	134	Sound	click30	1705617	0	2			0
+JJ0001_Sub55_3	135	Sound	click30	1718117	0	3			0
+JJ0001_Sub55_3	136	Sound	click30	1730617	0	3			0
+JJ0001_Sub55_3	137	Sound	click30	1743118	0	2			0
+JJ0001_Sub55_3	138	Sound	click30	1755619	0	2			0
+JJ0001_Sub55_3	139	Sound	500ms1kHz	1768119	0	3			0
+JJ0001_Sub55_3	139	Response	8	1771885	3766	1
+JJ0001_Sub55_3	140	Sound	click30	1780619	0	3			0
+JJ0001_Sub55_3	141	Sound	click30	1793120	0	2			0
+JJ0001_Sub55_3	142	Sound	click30	1805621	0	2			0
+JJ0001_Sub55_3	143	Sound	click30	1818122	0	2			0
+JJ0001_Sub55_3	144	Sound	2rlaugh	1830622	0	3			0
+JJ0001_Sub55_3	145	Sound	click30	1843123	0	2			0
+JJ0001_Sub55_3	146	Sound	click30	1855624	0	2			0
+JJ0001_Sub55_3	147	Sound	click30	1868124	0	3			0
+JJ0001_Sub55_3	148	Sound	click30	1880624	0	3			0
+JJ0001_Sub55_3	149	Sound	2rrace	1893125	0	2			0
+JJ0001_Sub55_3	150	Sound	click30	1905626	0	2			0
+JJ0001_Sub55_3	151	Sound	click30	1918127	0	2			0
+JJ0001_Sub55_3	152	Sound	click30	1930628	0	2			0
+JJ0001_Sub55_3	153	Sound	click30	1943129	0	2			0
+JJ0001_Sub55_3	154	Sound	click30	1955630	0	2			0
+JJ0001_Sub55_3	155	Sound	click30	1968130	0	3			0
+JJ0001_Sub55_3	156	Sound	500ms1kHz	1980630	0	3			0
+JJ0001_Sub55_3	156	Response	8	1984325	3695	1
+JJ0001_Sub55_3	157	Sound	click30	1993131	0	2			0
+JJ0001_Sub55_3	158	Sound	click30	2005632	0	2			0
+JJ0001_Sub55_3	159	Sound	click30	2018133	0	2			0
+JJ0001_Sub55_3	160	Sound	click30	2030634	0	2			0
+JJ0001_Sub55_3	161	Sound	2rcow	2043135	0	2			0
+JJ0001_Sub55_3	162	Sound	click30	2055635	0	3			0
+JJ0001_Sub55_3	163	Sound	click30	2068136	0	2			0
+JJ0001_Sub55_3	164	Sound	click30	2080637	0	2			0
+JJ0001_Sub55_3	165	Sound	click30	2093138	0	2			0
+JJ0001_Sub55_3	166	Sound	click30	2105639	0	2			0
+JJ0001_Sub55_3	167	Sound	500ms1kHz	2118140	0	2			0
+JJ0001_Sub55_3	167	Response	8	2125424	7284	2
+JJ0001_Sub55_3	168	Sound	click30	2130640	0	3			0
+JJ0001_Sub55_3	169	Sound	click30	2143141	0	2			0
+JJ0001_Sub55_3	170	Sound	click30	2155642	0	2			0
+JJ0001_Sub55_3	171	Sound	click30	2168142	0	3			0
+JJ0001_Sub55_3	172	Sound	click30	2180643	0	2			0
+JJ0001_Sub55_3	173	Sound	2rseal	2193144	0	2			0
+JJ0001_Sub55_3	174	Sound	click30	2205645	0	2			0
+JJ0001_Sub55_3	175	Sound	click30	2218146	0	2			0
+JJ0001_Sub55_3	176	Sound	click30	2230647	0	2			0
+JJ0001_Sub55_3	177	Sound	click30	2243148	0	2			0
+JJ0001_Sub55_3	178	Sound	click30	2255649	0	2			0
+JJ0001_Sub55_3	179	Sound	2ruboing	2268149	0	3			0
+JJ0001_Sub55_3	180	Sound	click30	2280649	0	3			0
+JJ0001_Sub55_3	181	Sound	click30	2293150	0	2			0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	83	other				156	1	15173	2	0	15000
+Picture	82	other				20331	1	15172	3	20000	15000
+Picture	81	other				40339	1	15172	3	40000	15000
+Sound	click30	miss				55513	2			0
+Sound	click30	miss				68014	2			0
+Sound	click30	miss				80515	2			0
+Sound	click30	miss				93016	2			0
+Sound	click30	hit	2	6116	3	105517	2			0
+Sound	500ms1kHz	hit	1	4866	4	118018	2			0
+Sound	click30	miss				130519	2			0
+Sound	click30	miss				143020	2			0
+Sound	click30	miss				155521	2			0
+Sound	click30	miss				168022	2			0
+Sound	2rlaugh2	miss				180523	2			0
+Sound	click30	miss				193024	2			0
+Sound	click30	miss				205525	2			0
+Sound	500ms1kHz	hit	1	7558	3	218026	2			0
+Sound	click30	miss				230527	2			0
+Sound	click30	miss				243028	2			0
+Sound	click30	miss				255529	2			0
+Sound	click30	miss				268030	2			0
+Sound	click30	miss				280531	2			0
+Sound	2rutiller	miss				293032	2			0
+Sound	click30	miss				305533	2			0
+Sound	click30	miss				318034	2			0
+Sound	click30	miss				330535	2			0
+Sound	click30	miss				343036	2			0
+Sound	click30	miss				355537	2			0
+Sound	2rcrow	miss				368037	3			0
+Sound	click30	miss				380537	3			0
+Sound	click30	miss				393038	2			0
+Sound	click30	miss				405539	2			0
+Sound	click30	miss				418040	2			0
+Sound	click30	miss				430540	3			0
+Sound	click30	miss				443041	2			0
+Sound	click30	miss				455542	2			0
+Sound	500ms1kHz	hit	1	5822	5	468042	3			0
+Sound	click30	miss				480542	3			0
+Sound	click30	miss				493043	2			0
+Sound	click30	miss				505544	2			0
+Sound	click30	miss				518044	3			0
+Sound	click30	miss				530545	2			0
+Sound	click30	miss				543046	2			0
+Sound	500ms1kHz	hit	1	5827	4	555547	2			0
+Sound	click30	miss				568047	3			0
+Sound	click30	miss				580548	2			0
+Sound	click30	miss				593049	2			0
+Sound	2rupop	miss				605550	2			0
+Sound	click30	miss				618051	2			0
+Sound	click30	miss				630552	2			0
+Sound	click30	miss				643053	2			0
+Sound	click30	miss				655554	2			0
+Sound	click30	miss				668055	2			0
+Sound	click30	miss				680556	2			0
+Sound	click30	miss				693057	2			0
+Sound	500ms1kHz	hit	1	6986	4	705558	2			0
+Sound	click30	miss				718058	3			0
+Sound	click30	miss				730558	3			0
+Sound	click30	miss				743059	2			0
+Sound	click30	miss				755560	2			0
+Sound	500ms1kHz	hit	1	4473	4	768061	2			0
+Sound	click30	miss				780561	2			0
+Sound	click30	miss				793062	2			0
+Sound	click30	miss				805563	2			0
+Sound	click30	miss				818063	3			0
+Sound	click30	miss				830564	2			0
+Sound	2rutone	miss				843065	2			0
+Sound	click30	miss				855566	2			0
+Sound	click30	miss				868067	2			0
+Sound	click30	miss				880568	2			0
+Sound	click30	miss				893069	2			0
+Sound	click30	miss				905570	2			0
+Sound	click30	miss				918071	2			0
+Sound	2rbird2	miss				930572	2			0
+Sound	click30	miss				943073	2			0
+Sound	click30	miss				955573	3			0
+Sound	click30	miss				968074	2			0
+Sound	click30	miss				980574	3			0
+Sound	click30	miss				993075	2			0
+Sound	click30	miss				1005575	3			0
+Sound	500ms1kHz	hit	1	5139	5	1018075	3			0
+Sound	click30	miss				1030576	2			0
+Sound	click30	miss				1043077	2			0
+Sound	click30	miss				1055578	2			0
+Sound	click30	miss				1068079	2			0
+Sound	click30	miss				1080580	2			0
+Sound	500ms1kHz	hit	1	7233	4	1093081	2			0
+Sound	click30	miss				1105582	2			0
+Sound	click30	miss				1118083	2			0
+Sound	click30	miss				1130583	3			0
+Sound	click30	miss				1143084	2			0
+Sound	click30	miss				1155585	2			0
+Sound	click30	miss				1168086	2			0
+Sound	500ms1kHz	hit	1	4358	5	1180586	3			0
+Sound	click30	miss				1193087	2			0
+Sound	click30	miss				1205588	2			0
+Sound	click30	miss				1218088	3			0
+Sound	click30	miss				1230589	2			0
+Sound	500ms1kHz	hit	1	5204	4	1243090	2			0
+Sound	click30	miss				1255590	3			0
+Sound	click30	miss				1268090	3			0
+Sound	click30	miss				1280591	2			0
+Sound	click30	miss				1293092	2			0
+Sound	click30	miss				1305593	2			0
+Sound	click30	miss				1318093	3			0
+Sound	2ruhover	miss				1330593	3			0
+Sound	click30	miss				1343094	2			0
+Sound	click30	miss				1355595	2			0
+Sound	click30	miss				1368095	3			0
+Sound	click30	miss				1380596	2			0
+Sound	click30	miss				1393097	2			0
+Sound	2ruray3	miss				1405598	2			0
+Sound	click30	miss				1418098	3			0
+Sound	click30	miss				1430598	3			0
+Sound	click30	miss				1443099	2			0
+Sound	click30	miss				1455600	2			0
+Sound	click30	miss				1468101	2			0
+Sound	500ms1kHz	hit	1	3972	4	1480602	2			0
+Sound	click30	miss				1493103	2			0
+Sound	click30	miss				1505604	2			0
+Sound	click30	miss				1518105	2			0
+Sound	click30	miss				1530606	2			0
+Sound	2rchicken	miss				1543107	2			0
+Sound	click30	miss				1555608	2			0
+Sound	click30	miss				1568109	2			0
+Sound	click30	miss				1580610	2			0
+Sound	click30	miss				1593111	2			0
+Sound	click30	miss				1605612	2			0
+Sound	2ruspace	miss				1618112	3			0
+Sound	click30	miss				1630613	2			0
+Sound	click30	miss				1643114	2			0
+Sound	click30	miss				1655615	2			0
+Sound	click30	miss				1668115	3			0
+Sound	click30	miss				1680616	2			0
+Sound	500ms1kHz	hit	1	5018	5	1693116	3			0
+Sound	click30	miss				1705617	2			0
+Sound	click30	miss				1718117	3			0
+Sound	click30	miss				1730617	3			0
+Sound	click30	miss				1743118	2			0
+Sound	click30	miss				1755619	2			0
+Sound	500ms1kHz	hit	1	3766	4	1768119	3			0
+Sound	click30	miss				1780619	3			0
+Sound	click30	miss				1793120	2			0
+Sound	click30	miss				1805621	2			0
+Sound	click30	miss				1818122	2			0
+Sound	2rlaugh	miss				1830622	3			0
+Sound	click30	miss				1843123	2			0
+Sound	click30	miss				1855624	2			0
+Sound	click30	miss				1868124	3			0
+Sound	click30	miss				1880624	3			0
+Sound	2rrace	miss				1893125	2			0
+Sound	click30	miss				1905626	2			0
+Sound	click30	miss				1918127	2			0
+Sound	click30	miss				1930628	2			0
+Sound	click30	miss				1943129	2			0
+Sound	click30	miss				1955630	2			0
+Sound	click30	miss				1968130	3			0
+Sound	500ms1kHz	hit	1	3695	4	1980630	3			0
+Sound	click30	miss				1993131	2			0
+Sound	click30	miss				2005632	2			0
+Sound	click30	miss				2018133	2			0
+Sound	click30	miss				2030634	2			0
+Sound	2rcow	miss				2043135	2			0
+Sound	click30	miss				2055635	3			0
+Sound	click30	miss				2068136	2			0
+Sound	click30	miss				2080637	2			0
+Sound	click30	miss				2093138	2			0
+Sound	click30	miss				2105639	2			0
+Sound	500ms1kHz	hit	1	7284	4	2118140	2			0
+Sound	click30	miss				2130640	3			0
+Sound	click30	miss				2143141	2			0
+Sound	click30	miss				2155642	2			0
+Sound	click30	miss				2168142	3			0
+Sound	click30	miss				2180643	2			0
+Sound	2rseal	miss				2193144	2			0
+Sound	click30	miss				2205645	2			0
+Sound	click30	miss				2218146	2			0
+Sound	click30	miss				2230647	2			0
+Sound	click30	miss				2243148	2			0
+Sound	click30	miss				2255649	2			0
+Sound	2ruboing	miss				2268149	3			0
+Sound	click30	miss				2280649	3			0
+Sound	click30	miss				2293150	2			0
